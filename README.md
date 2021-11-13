@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminherrera&langs_count=8)
+
+<code><img height="20" src="https://www.jenkins.io/images/logos/stay-safe/stay-safe.png"></code>
