@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <!--<code><img height="20" src="https://www.jenkins.io/images/logos/stay-safe/stay-safe.png"></code>-->
 <code><img height="20" src="https://www.jenkins.io/images/logos/santa-claus/santa-claus.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/YasminHerrera/icons/master/images/git.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/YasminHerrera/icons/master/images/hashicorp-vault.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/YasminHerrera/icons/master/images/groovy-logo.png"></code>
