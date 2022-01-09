@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 📝Posts:
 <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ryhl/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ryhl/0" alt="Recent Article 0"></a>
+- <a href="https://medium.com/@ryhl/hashicorp-vault-m%C3%A9todos-de-autenticaci%C3%B3n-habilitados-348511a34130">Hashicorp Vault - Métodos de autenticación habilitados</a>
+- <a href="https://medium.com/@ryhl/bitbucket-generar-una-contrase%C3%B1a-de-acceso-para-aplicaciones-automatizaciones-d1c4b68c3139">Bitbucket - Generar una contraseña de acceso para aplicaciones, automatizaciones</a>
